@@ -1,0 +1,9 @@
+﻿  AppsCore.cpp
+  CadObjectBuilder.cpp
+  dllmain.cpp
+     Creating library C:\Users\Gaurav\Source\Repos\SoftwareArchitectureCLassApplication\x64\Release\AppsCore.lib and object C:\Users\Gaurav\Source\Repos\SoftwareArchitectureCLassApplication\x64\Release\AppsCore.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  AppsCore.vcxproj -> C:\Users\Gaurav\Source\Repos\SoftwareArchitectureCLassApplication\x64\Release\AppsCore.dll

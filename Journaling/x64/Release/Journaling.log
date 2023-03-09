@@ -1,0 +1,15 @@
+﻿  dllmain.cpp
+  JournalCallData.cpp
+  JournalCallParamData.cpp
+  JournalCallParamDataBoolean.cpp
+  JournalCallParamDataClass.cpp
+  JournalCallParamDataInteger.cpp
+  JournalCallParamDataString.cpp
+  JournalFile.cpp
+  Journaling.cpp
+     Creating library C:\Users\Gaurav\source\repos\SoftwareArchitectureCLassApplication\x64\Release\JOURNALING.lib and object C:\Users\Gaurav\source\repos\SoftwareArchitectureCLassApplication\x64\Release\JOURNALING.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 525 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Journaling.vcxproj -> C:\Users\Gaurav\source\repos\SoftwareArchitectureCLassApplication\x64\Release\JOURNALING.dll

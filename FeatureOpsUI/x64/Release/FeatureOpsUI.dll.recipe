@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\Gaurav\Source\Repos\SoftwareArchitectureCLassApplication\x64\Release\AppsCore.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Gaurav\Source\Repos\SoftwareArchitectureCLassApplication\x64\Release\CORE.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Gaurav\Source\Repos\SoftwareArchitectureCLassApplication\x64\Release\DATAREADER.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Gaurav\Source\Repos\SoftwareArchitectureCLassApplication\x64\Release\JOURNALING.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Gaurav\Source\Repos\SoftwareArchitectureCLassApplication\x64\Release\APPLIBRARY.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Gaurav\Source\Repos\SoftwareArchitectureCLassApplication\x64\Release\AppPartOps.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Gaurav\Source\Repos\SoftwareArchitectureCLassApplication\x64\Release\FeatureOpsUI.dll</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

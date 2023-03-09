@@ -1,0 +1,6 @@
+﻿     Creating library C:\Users\Gaurav\source\repos\SoftwareArchitectureCLassApplication\x64\Release\APPLIBRARY.lib and object C:\Users\Gaurav\source\repos\SoftwareArchitectureCLassApplication\x64\Release\APPLIBRARY.exp
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 237 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  AppLibrary.vcxproj -> C:\Users\Gaurav\source\repos\SoftwareArchitectureCLassApplication\x64\Release\APPLIBRARY.dll

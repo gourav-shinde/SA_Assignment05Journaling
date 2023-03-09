@@ -17,6 +17,8 @@ void JournalCallParamDataInteger::Journal()
     if (this->m_paramType == JournalCallParamData::ParameterMetaType::INPUT)
     {
         //TODO
+        std::string temp = std::to_string(m_value);
+        GetActiveJournalFile()->WriteToFile(temp);
     }
     else if (this->m_paramType == JournalCallParamData::ParameterMetaType::OUTPUT)
     {
